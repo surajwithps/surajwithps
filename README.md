@@ -1,7 +1,7 @@
 - 👋 Hi, I’m suraj kumar
-- 👀 I’m interested in ...
+
 - 🌱 I’m pursuing Full Stack Web Development with ReactJS, Chakra-UI, NodeJS, Data structures and Algorithms etc.
-- 💞️ I’m looking to collaborate on ...
+
 - 📫 How to reach me suraj9707@gmail.com
 
 <!---
