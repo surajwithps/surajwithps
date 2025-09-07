@@ -8,7 +8,7 @@
 ## 🔧 Tech Stack  
 - **Frontend:** React, Redux Toolkit, Vite, Tailwind CSS, Chakra UI, HTML5, CSS3, JavaScript  
 - **Backend:** Node.js, Express.js, REST APIs, MongoDB  
-- **Tools & Platforms:** Git/GitHub, Vercel, AWS (SQS, EventBridge, EC2), Docker  
+- **Tools & Platforms:** Git/GitHub, Vercel, AWS (SQS, EventBridge, EC2)
 - **Other Skills:** Authentication, State Management, Responsive Design, Problem Solving  
 
 ---
