@@ -1,11 +1,43 @@
-- 👋 Hi, I’m suraj kumar
+# 👋 Hi, I'm Suraj Kumar  
 
-- 🌱 I’m pursuing Full Stack Web Development with ReactJS, Chakra-UI, NodeJS, Data structures and Algorithms etc.
+💻 A passionate **MERN Stack Developer** with experience in building scalable, modern, and user-friendly web applications.  
+⚡ I enjoy working on real-world projects that improve usability, accessibility, and performance.  
 
-- 📫 How to reach me suraj9707@gmail.com, 8506991810
+---
 
-<!---
-surajwithps/surajwithps is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🔧 Tech Stack  
+- **Frontend:** React, Redux Toolkit, Vite, Tailwind CSS, Chakra UI, HTML5, CSS3, JavaScript  
+- **Backend:** Node.js, Express.js, REST APIs, MongoDB  
+- **Tools & Platforms:** Git/GitHub, Vercel, AWS (SQS, EventBridge, EC2), Docker  
+- **Other Skills:** Authentication, State Management, Responsive Design, Problem Solving  
 
+---
+
+## 🚀 Experience  
+- **Freelancing (2023–Present):**  
+  Developed and deployed custom **MERN stack applications**, handling everything from consultation to deployment.  
+- **Timeline Techno Pvt. Ltd (2019–2020):**  
+  Designed and delivered responsive websites, collaborating with clients to meet their vision and goals.  
+
+---
+
+## 🌱 What I’m Learning  
+- **Advanced System Design & Architecture**  
+- **Microservices & Event-driven Systems**  
+- **Cloud Deployment & DevOps (AWS, Docker, CI/CD)**  
+- **Performance Optimization for Large-Scale Apps**  
+
+---
+
+## 📊 GitHub Stats  
+![Suraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=surajwithps&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=surajwithps&layout=compact&theme=radical)  
+
+---
+
+## 📫 Connect with Me  
+- 📧 Email: suraj9707@gmail.com  
+- 💼 LinkedIn: [Your LinkedIn Link]  
+- 🌐 Portfolio: [Your Portfolio Link]  
+
+⭐️ Always excited to collaborate on impactful projects and explore new technologies!  
