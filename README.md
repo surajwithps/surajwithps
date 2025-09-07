@@ -32,7 +32,7 @@
 ## 📊 GitHub Stats  
 ![Suraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=surajwithps&show_icons=true&theme=radical&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=surajwithps&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=radical&hide_border=false&count_private=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=surajwithps&theme=radical&hide_border=false&count_private=true)
 
 
 ---
