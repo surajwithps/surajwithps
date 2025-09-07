@@ -47,7 +47,7 @@
 
 ## 📫 Connect with Me  
 - 📧 Email: suraj9707@gmail.com  
-- 💼 LinkedIn: [Your LinkedIn Link]  
-- 🌐 Portfolio: [Your Portfolio Link]  
+- 💼 LinkedIn: [updating...]  
+- 🌐 Portfolio: [updating...]  
 
 ⭐️ Always excited to collaborate on impactful projects and explore new technologies!  
